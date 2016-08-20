@@ -1,0 +1,57 @@
+<!ENTITY https-everywhere.about.title "HTTPS Everywhere-ist">
+<!ENTITY https-everywhere.about.ext_name "HTTPS Everywhere">
+<!ENTITY https-everywhere.about.ext_description "Krüpteeri veeb! Kasuta HTTPS turvalaiendust automaatselt paljudel lehtedel.">
+<!ENTITY https-everywhere.about.version "Versioon">
+<!ENTITY https-everywhere.about.created_by "Loodud">
+<!ENTITY https-everywhere.about.and ", ja">
+<!ENTITY https-everywhere.about.librarians "Reeglistiku haldajad">
+<!ENTITY https-everywhere.about.add_new_rule "Add New Rule">
+<!ENTITY https-everywhere.about.thanks "Tänud">
+<!ENTITY https-everywhere.about.many_contributors "Palju-palju kaastöötajaid, sealhulgas">
+<!ENTITY https-everywhere.about.noscript "Lisaks, HTTPS Everywhere põhineb osaliselt NoScripti koodil, mille autoriks on Giorgio Maone ja teised. Oleme neile tänulikud nende tubli töö eest!">
+<!ENTITY https-everywhere.about.contribute  "Kui sulle meeldib HTTPS Everywhere, võiksid kaaluda">
+<!ENTITY https-everywhere.about.donate_tor "Annetust Tor-ile">
+<!ENTITY https-everywhere.about.tor_lang_code "et">
+<!ENTITY https-everywhere.about.or "või">
+<!ENTITY https-everywhere.about.donate_eff "Annetust EFF-ile">
+
+<!ENTITY https-everywhere.menu.donate_eff_imperative "Anneta EFFle">
+<!ENTITY https-everywhere.menu.about "HTTPS Everywhere-ist">
+<!ENTITY https-everywhere.menu.observatory "SSL Jälgija Eelistused">
+<!ENTITY https-everywhere.menu.globalEnable "Luba HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.globalDisable "Keela HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.blockUnencryptedRequests "Block all unencrypted requests">
+<!ENTITY https-everywhere.menu.showCounter "Näita loendurit">
+<!ENTITY https-everywhere.menu.viewAllRules "Vaata kõiki reegleid">
+
+<!ENTITY https-everywhere.prefs.title "HTTPS Everywhere Eelistused">
+<!ENTITY https-everywhere.prefs.enable_all "Luba kõik">
+<!ENTITY https-everywhere.prefs.disable_all "Keela kõik">
+<!ENTITY https-everywhere.prefs.reset_defaults "Taasta algseaded">
+<!ENTITY https-everywhere.prefs.search "Otsing">
+<!ENTITY https-everywhere.prefs.site "Leht">
+<!ENTITY https-everywhere.prefs.notes "Märkmed">
+<!ENTITY https-everywhere.prefs.list_caption "Millised HTTPS ümbersuunamis reeglid peaksid olema aktiivsed?">
+<!ENTITY https-everywhere.prefs.enabled "Lubatud">
+<!ENTITY https-everywhere.prefs.ruleset_howto "Sa võid kirjutada isiklikke reegleid (et lisada tuge teistele lehtedele)">
+<!ENTITY https-everywhere.prefs.here_link "siin">
+<!ENTITY https-everywhere.prefs.toggle "lülita">
+<!ENTITY https-everywhere.prefs.reset_default "Taasta vaikeväärtused">
+<!ENTITY https-everywhere.prefs.view_xml_source "Vaata XML lähtekoodi">
+
+<!ENTITY https-everywhere.chrome.stable_rules "Sabiilsed reeglid">
+<!ENTITY https-everywhere.chrome.stable_rules_description "Kohusta krüpteeritud ühendus nende veebisaitidega:">
+<!ENTITY https-everywhere.chrome.experimental_rules "Eksperimentaalsed reeglid">
+<!ENTITY https-everywhere.chrome.experimental_rules_description "Võivad põhjustada hoiatusi või mitte töötamist. Vaikimisi keelatud.">
+<!ENTITY https-everywhere.chrome.add_rule "Lisa reegel sellele saidile">
+<!ENTITY https-everywhere.chrome.add_new_rule "Lisa uus reegel sellele saidile">
+<!ENTITY https-everywhere.chrome.always_https_for_host "Kasuta selle hostiga alati HTTPSi">
+<!ENTITY https-everywhere.chrome.host "Host:">
+<!ENTITY https-everywhere.chrome.show_advanced "Kuva täiendavad">
+<!ENTITY https-everywhere.chrome.hide_advanced "Peida täiendavad">
+<!ENTITY https-everywhere.chrome.rule_name "Reegli nimi">
+<!ENTITY https-everywhere.chrome.regex "Vastav regulaaravaldis">
+<!ENTITY https-everywhere.chrome.redirect_to "Suuna aadressile">
+<!ENTITY https-everywhere.chrome.status_cancel_button "Katkesta">
+
+

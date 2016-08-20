@@ -1,0 +1,57 @@
+<!ENTITY https-everywhere.about.title "關於「https優先」">
+<!ENTITY https-everywhere.about.ext_name "「https優先」">
+<!ENTITY https-everywhere.about.ext_description "將互聯網加密！自動喺網站使用https連線。">
+<!ENTITY https-everywhere.about.version "版本">
+<!ENTITY https-everywhere.about.created_by "製作者：">
+<!ENTITY https-everywhere.about.and "，以及">
+<!ENTITY https-everywhere.about.librarians "規則管理員">
+<!ENTITY https-everywhere.about.add_new_rule "Add New Rule">
+<!ENTITY https-everywhere.about.thanks "多謝">
+<!ENTITY https-everywhere.about.many_contributors "貢獻者包括">
+<!ENTITY https-everywhere.about.noscript "並且，「https優先」有部份程式碼係Giorgio Maone同其他人由NoScript移植並修改而嚟，我哋非常感謝佢哋嘅出色貢獻！">
+<!ENTITY https-everywhere.about.contribute  "若鍾意「https優先」，可考慮">
+<!ENTITY https-everywhere.about.donate_tor "捐助Tor洋蔥路由">
+<!ENTITY https-everywhere.about.tor_lang_code "zh-HK">
+<!ENTITY https-everywhere.about.or "或">
+<!ENTITY https-everywhere.about.donate_eff "捐助電子前哨基金會">
+
+<!ENTITY https-everywhere.menu.donate_eff_imperative "捐助電子前哨基金會">
+<!ENTITY https-everywhere.menu.about "關於「https優先」">
+<!ENTITY https-everywhere.menu.observatory "SSL觀測站設定">
+<!ENTITY https-everywhere.menu.globalEnable "啟用「https優先」">
+<!ENTITY https-everywhere.menu.globalDisable "停用「https優先」">
+<!ENTITY https-everywhere.menu.blockUnencryptedRequests "Block all unencrypted requests">
+<!ENTITY https-everywhere.menu.showCounter "顯示計數器">
+<!ENTITY https-everywhere.menu.viewAllRules "檢視全部規則">
+
+<!ENTITY https-everywhere.prefs.title "「https優先」設定">
+<!ENTITY https-everywhere.prefs.enable_all "啟用全部">
+<!ENTITY https-everywhere.prefs.disable_all "停用全部">
+<!ENTITY https-everywhere.prefs.reset_defaults "回到預設">
+<!ENTITY https-everywhere.prefs.search "搜尋">
+<!ENTITY https-everywhere.prefs.site "網站">
+<!ENTITY https-everywhere.prefs.notes "備註">
+<!ENTITY https-everywhere.prefs.list_caption "要套用邊啲https重新導向規則？">
+<!ENTITY https-everywhere.prefs.enabled "已啟用">
+<!ENTITY https-everywhere.prefs.ruleset_howto "你可以學習自行編寫規則(以支援其他網站)">
+<!ENTITY https-everywhere.prefs.here_link "呢度">
+<!ENTITY https-everywhere.prefs.toggle "切換">
+<!ENTITY https-everywhere.prefs.reset_default "回到預設">
+<!ENTITY https-everywhere.prefs.view_xml_source "檢視XML原始碼">
+
+<!ENTITY https-everywhere.chrome.stable_rules "穩定規則">
+<!ENTITY https-everywhere.chrome.stable_rules_description "喺以下網站強制使用加密連線：">
+<!ENTITY https-everywhere.chrome.experimental_rules "實驗性規則">
+<!ENTITY https-everywhere.chrome.experimental_rules_description "可能會導致警告同錯誤，預設為關閉。">
+<!ENTITY https-everywhere.chrome.add_rule "幫呢個網站加入規則">
+<!ENTITY https-everywhere.chrome.add_new_rule "幫呢個網站加入新規則">
+<!ENTITY https-everywhere.chrome.always_https_for_host "該主機皆使用https加密網址">
+<!ENTITY https-everywhere.chrome.host "主機：">
+<!ENTITY https-everywhere.chrome.show_advanced "顯示進階選項">
+<!ENTITY https-everywhere.chrome.hide_advanced "隱藏進階選項">
+<!ENTITY https-everywhere.chrome.rule_name "規則名稱">
+<!ENTITY https-everywhere.chrome.regex "比對正規表達方式">
+<!ENTITY https-everywhere.chrome.redirect_to "重新導向">
+<!ENTITY https-everywhere.chrome.status_cancel_button "取消">
+
+

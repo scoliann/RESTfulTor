@@ -1,0 +1,57 @@
+<!ENTITY https-everywhere.about.title "Sobre HTTPS Everywhere">
+<!ENTITY https-everywhere.about.ext_name "HTTPS Everywhere">
+<!ENTITY https-everywhere.about.ext_description "Xifra la Web! Fes servir automàticament la seguretat HTTPS a molts llocs.">
+<!ENTITY https-everywhere.about.version "Versió">
+<!ENTITY https-everywhere.about.created_by "Creat per">
+<!ENTITY https-everywhere.about.and ", i">
+<!ENTITY https-everywhere.about.librarians "Bibliotecaris de normes">
+<!ENTITY https-everywhere.about.add_new_rule "Afegeix una nova norma">
+<!ENTITY https-everywhere.about.thanks "Gràcies a">
+<!ENTITY https-everywhere.about.many_contributors "Molts, molts contribuïdors, com ">
+<!ENTITY https-everywhere.about.noscript "A més a més, parts de l'HTTPS Everywhere estan basades en codi de NoScript, per Giorgio Maone i altres. Agraïm la seva excel·lent feina!">
+<!ENTITY https-everywhere.about.contribute  "Si us agrada HTTPS Everywhere, podríeu considerar">
+<!ENTITY https-everywhere.about.donate_tor "Fer una donació a Tor">
+<!ENTITY https-everywhere.about.tor_lang_code "en">
+<!ENTITY https-everywhere.about.or "o">
+<!ENTITY https-everywhere.about.donate_eff "Fer una donació a EFF">
+
+<!ENTITY https-everywhere.menu.donate_eff_imperative "Donar a EEF">
+<!ENTITY https-everywhere.menu.about "Sobre HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.observatory "Preferències de SSL Observatory">
+<!ENTITY https-everywhere.menu.globalEnable "Activa HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.globalDisable "Desactiva HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.blockUnencryptedRequests "Block all unencrypted requests">
+<!ENTITY https-everywhere.menu.showCounter "Mostra el comptador">
+<!ENTITY https-everywhere.menu.viewAllRules "Ensenya totes les regles">
+
+<!ENTITY https-everywhere.prefs.title "Preferències d'HTTPS Everywhere">
+<!ENTITY https-everywhere.prefs.enable_all "Activa-ho tot">
+<!ENTITY https-everywhere.prefs.disable_all "Desactiva-ho tot">
+<!ENTITY https-everywhere.prefs.reset_defaults "Torna a les opcions per defecte">
+<!ENTITY https-everywhere.prefs.search "Cerca">
+<!ENTITY https-everywhere.prefs.site "Lloc">
+<!ENTITY https-everywhere.prefs.notes "Notes">
+<!ENTITY https-everywhere.prefs.list_caption "Quines regles de redirecció HTTPS voleu aplicar?">
+<!ENTITY https-everywhere.prefs.enabled "Activat">
+<!ENTITY https-everywhere.prefs.ruleset_howto "Podeu aprendre com escriure les vostres pròpies normes (per afegir suport a altres webs)">
+<!ENTITY https-everywhere.prefs.here_link "aquí">
+<!ENTITY https-everywhere.prefs.toggle "Canvia">
+<!ENTITY https-everywhere.prefs.reset_default "Tornar a la opció per defecte">
+<!ENTITY https-everywhere.prefs.view_xml_source "Veure el codi XML">
+
+<!ENTITY https-everywhere.chrome.stable_rules "Normes estables.">
+<!ENTITY https-everywhere.chrome.stable_rules_description "Força les connexions encriptades per als llocs web següents:">
+<!ENTITY https-everywhere.chrome.experimental_rules "Normes experimentals">
+<!ENTITY https-everywhere.chrome.experimental_rules_description "Pot causar avisos i problemes. Desactivat per defecte.">
+<!ENTITY https-everywhere.chrome.add_rule "Afegeix una norma per a aquest lloc">
+<!ENTITY https-everywhere.chrome.add_new_rule "Afegeix una norma nova per a aquest lloc">
+<!ENTITY https-everywhere.chrome.always_https_for_host "Utilitza sempre https per a aquest host">
+<!ENTITY https-everywhere.chrome.host "Host:">
+<!ENTITY https-everywhere.chrome.show_advanced "Mostra l'avançat">
+<!ENTITY https-everywhere.chrome.hide_advanced "Amaga l'avançat">
+<!ENTITY https-everywhere.chrome.rule_name "Nom de la norma">
+<!ENTITY https-everywhere.chrome.regex "Trobant la regex">
+<!ENTITY https-everywhere.chrome.redirect_to "Redirecciona a">
+<!ENTITY https-everywhere.chrome.status_cancel_button "Cancel·la">
+
+

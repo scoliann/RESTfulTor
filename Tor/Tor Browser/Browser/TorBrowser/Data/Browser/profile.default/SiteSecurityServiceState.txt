@@ -1,0 +1,7 @@
+dist.torproject.org:HSTS	2	17032	1487355711819,1,0
+www.eff.org:HSTS	1	17032	1503124189584,1,1
+cdn-fastly.torproject.org:HSTS	1	17033	1479433258438,1,0
+blocklist.addons.mozilla.org:HSTS	1	17032	1503127425699,1,0
+check.torproject.org:HSTS	2	17032	1473632890932,1,0
+www.torproject.org:HSTS	2	17032	1487355709945,1,0
+cdn.torproject.org:HSTS	1	17033	1487420990457,1,0

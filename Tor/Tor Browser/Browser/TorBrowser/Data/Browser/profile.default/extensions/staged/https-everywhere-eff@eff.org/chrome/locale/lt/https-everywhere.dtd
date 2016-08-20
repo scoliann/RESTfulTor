@@ -1,0 +1,57 @@
+<!ENTITY https-everywhere.about.title "Apie HTTPS Everywhere">
+<!ENTITY https-everywhere.about.ext_name "HTTPS Everywhere">
+<!ENTITY https-everywhere.about.ext_description "Šifruokite žiniatinklį! Automatiškai naudokite HTTPS apsaugą daugelyje svetainių.">
+<!ENTITY https-everywhere.about.version "Versija">
+<!ENTITY https-everywhere.about.created_by "Sukūrė">
+<!ENTITY https-everywhere.about.and "ir">
+<!ENTITY https-everywhere.about.librarians "Taisyklių bibliotekininkai">
+<!ENTITY https-everywhere.about.add_new_rule "Pridėti naują taisyklę">
+<!ENTITY https-everywhere.about.thanks "Dėkojame">
+<!ENTITY https-everywhere.about.many_contributors "Daugybė pagalbininkų, įskaitant">
+<!ENTITY https-everywhere.about.noscript "Taip pat, dalis HTTPS Everywhere yra paremta ,Giorgio Maone ir kitų kurtu, NoScript kodu. Mes esame dėkingi už jų nuostabų darbą!">
+<!ENTITY https-everywhere.about.contribute  "Jei Jums patinka HTTPS Everywhere, galbūt norėsite">
+<!ENTITY https-everywhere.about.donate_tor "Paaukoti Tor projektui">
+<!ENTITY https-everywhere.about.tor_lang_code "lt">
+<!ENTITY https-everywhere.about.or "arba">
+<!ENTITY https-everywhere.about.donate_eff "Paaukoti EFF">
+
+<!ENTITY https-everywhere.menu.donate_eff_imperative "Paaukoti EFF">
+<!ENTITY https-everywhere.menu.about "Apie HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.observatory "SSL Observatorijos nustatymai">
+<!ENTITY https-everywhere.menu.globalEnable "Įgalinti HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.globalDisable "Išjungti HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.blockUnencryptedRequests "Blokuoti visas nešifruotas užklausas">
+<!ENTITY https-everywhere.menu.showCounter "Rodyti skaitiklį">
+<!ENTITY https-everywhere.menu.viewAllRules "Žiūrėti visas taisykles">
+
+<!ENTITY https-everywhere.prefs.title "HTTPS Everywhere nustatymai">
+<!ENTITY https-everywhere.prefs.enable_all "Įgalinti visas">
+<!ENTITY https-everywhere.prefs.disable_all "Uždrausti visas">
+<!ENTITY https-everywhere.prefs.reset_defaults "Atstatyti numatytas">
+<!ENTITY https-everywhere.prefs.search "Ieškoti">
+<!ENTITY https-everywhere.prefs.site "Tinklapis">
+<!ENTITY https-everywhere.prefs.notes "Pastabos">
+<!ENTITY https-everywhere.prefs.list_caption "Kurias HTTPS nukreipimo taisykles naudoti?">
+<!ENTITY https-everywhere.prefs.enabled "Įgalinta">
+<!ENTITY https-everywhere.prefs.ruleset_howto "Galite sužinoti, kaip patiems rašyti nukreipimo taisykles (kad pridėtumėte kitų svetainių palaikymą)">
+<!ENTITY https-everywhere.prefs.here_link "čia">
+<!ENTITY https-everywhere.prefs.toggle "Perjungti">
+<!ENTITY https-everywhere.prefs.reset_default "Atstatyti numatytą">
+<!ENTITY https-everywhere.prefs.view_xml_source "Žiūrėti XML šaltinį">
+
+<!ENTITY https-everywhere.chrome.stable_rules "Pastovios taisyklės">
+<!ENTITY https-everywhere.chrome.stable_rules_description "Priverstinis prisijungimų šifravimas į šiuos tinklalapius:">
+<!ENTITY https-everywhere.chrome.experimental_rules "Eksperimentinės taisyklės">
+<!ENTITY https-everywhere.chrome.experimental_rules_description "Gali sukelti įspėjimus ar gedimus. Išjungta pagal nutylėjimą.">
+<!ENTITY https-everywhere.chrome.add_rule "Pridėti šiai svetainei taisyklę">
+<!ENTITY https-everywhere.chrome.add_new_rule "Pridėti šiai svetainei naują taisyklę">
+<!ENTITY https-everywhere.chrome.always_https_for_host "Visuomet šiam serveriui naudoti https">
+<!ENTITY https-everywhere.chrome.host "Serveris:">
+<!ENTITY https-everywhere.chrome.show_advanced "Rodyti išplėstinius">
+<!ENTITY https-everywhere.chrome.hide_advanced "Slėpti išplėstinius">
+<!ENTITY https-everywhere.chrome.rule_name "Taisyklės pavadinimas">
+<!ENTITY https-everywhere.chrome.regex "Atitinkamas reguliarusis reiškinys">
+<!ENTITY https-everywhere.chrome.redirect_to "Nukreipti į">
+<!ENTITY https-everywhere.chrome.status_cancel_button "Atšaukti">
+
+

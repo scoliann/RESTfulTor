@@ -1,0 +1,57 @@
+<!ENTITY https-everywhere.about.title "O proširenju HTTPS Everywhere">
+<!ENTITY https-everywhere.about.ext_name "HTTPS Everywhere">
+<!ENTITY https-everywhere.about.ext_description "Enkriptirajte web! Automatski koristite HTTPS sigurnost na mnogim stranicama.">
+<!ENTITY https-everywhere.about.version "Inačica">
+<!ENTITY https-everywhere.about.created_by "Autori">
+<!ENTITY https-everywhere.about.and ", i">
+<!ENTITY https-everywhere.about.librarians "Autori biblioteke skupova pravila">
+<!ENTITY https-everywhere.about.add_new_rule "Dodaj novo pravilo">
+<!ENTITY https-everywhere.about.thanks "Zahvala">
+<!ENTITY https-everywhere.about.many_contributors "Puno, puno kontributora, uključujući">
+<!ENTITY https-everywhere.about.noscript "Također, dijelovi HTTPS Everywhere su zasnovani na kodu iz NoScript-a, autora Giorgioa Maonea i ostalih. Zahvalni smo im za odličan rad!">
+<!ENTITY https-everywhere.about.contribute  "Ako Vam se sviđa HTTPS Everywhere, mogli biste razmotriti">
+<!ENTITY https-everywhere.about.donate_tor "doniranje Tor-u">
+<!ENTITY https-everywhere.about.tor_lang_code "en">
+<!ENTITY https-everywhere.about.or "ili">
+<!ENTITY https-everywhere.about.donate_eff "doniranje EFF-u">
+
+<!ENTITY https-everywhere.menu.donate_eff_imperative "Donirajte EFF-u">
+<!ENTITY https-everywhere.menu.about "O proširenju HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.observatory "Postavke SSL Opservatorija">
+<!ENTITY https-everywhere.menu.globalEnable "Omogući HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.globalDisable "Onemogući HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.blockUnencryptedRequests "Block all unencrypted requests">
+<!ENTITY https-everywhere.menu.showCounter "Prikaži brojač">
+<!ENTITY https-everywhere.menu.viewAllRules "Pogledaj sva pravila">
+
+<!ENTITY https-everywhere.prefs.title "Podešavanje HTTPS Everywhere">
+<!ENTITY https-everywhere.prefs.enable_all "Omogući sve">
+<!ENTITY https-everywhere.prefs.disable_all "Onemogući sve">
+<!ENTITY https-everywhere.prefs.reset_defaults "Vrati na početno">
+<!ENTITY https-everywhere.prefs.search "Pretraživanje">
+<!ENTITY https-everywhere.prefs.site "Stranica">
+<!ENTITY https-everywhere.prefs.notes "Napomene">
+<!ENTITY https-everywhere.prefs.list_caption "Koja bi se pravila za HTTPS preusmjeravanje trebala primijeniti?">
+<!ENTITY https-everywhere.prefs.enabled "Omogućeno">
+<!ENTITY https-everywhere.prefs.ruleset_howto "Možete naučiti kako pisati vlastite skupove pravila (za dodavanje podrške za druge web stranice)">
+<!ENTITY https-everywhere.prefs.here_link "ovdje">
+<!ENTITY https-everywhere.prefs.toggle "Prebaci">
+<!ENTITY https-everywhere.prefs.reset_default "Vrati na početno">
+<!ENTITY https-everywhere.prefs.view_xml_source "Prikaži izvorni XML kod">
+
+<!ENTITY https-everywhere.chrome.stable_rules "Pravila stabilnosti">
+<!ENTITY https-everywhere.chrome.stable_rules_description "Prisili enkriptirane veze s ovim stranicama:">
+<!ENTITY https-everywhere.chrome.experimental_rules "Eksperimentalna pravila">
+<!ENTITY https-everywhere.chrome.experimental_rules_description "Može prouzročiti upozorenja ili kvarove. Onemogućeno pod zadano.">
+<!ENTITY https-everywhere.chrome.add_rule "Dodaj pravilo za ovu stranicu">
+<!ENTITY https-everywhere.chrome.add_new_rule "Dodaj novo pravilo za ovu stranicu">
+<!ENTITY https-everywhere.chrome.always_https_for_host "Uvjek koristi https za ovog domaćina">
+<!ENTITY https-everywhere.chrome.host "Domaćin:">
+<!ENTITY https-everywhere.chrome.show_advanced "Pokaži napredno">
+<!ENTITY https-everywhere.chrome.hide_advanced "Sakrij napredno">
+<!ENTITY https-everywhere.chrome.rule_name "Ime pravila">
+<!ENTITY https-everywhere.chrome.regex "Uspoređujem regex">
+<!ENTITY https-everywhere.chrome.redirect_to "Preumsjeri na">
+<!ENTITY https-everywhere.chrome.status_cancel_button "Otkaži">
+
+

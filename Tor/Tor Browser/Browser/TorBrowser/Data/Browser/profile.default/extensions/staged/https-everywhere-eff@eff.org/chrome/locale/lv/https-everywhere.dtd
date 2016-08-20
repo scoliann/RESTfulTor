@@ -1,0 +1,57 @@
+<!ENTITY https-everywhere.about.title "Par HTTPS Everywhere">
+<!ENTITY https-everywhere.about.ext_name "HTTPS Everywhere">
+<!ENTITY https-everywhere.about.ext_description "Šifrēt tīmekli! Automātiski lietot HTTPS drošību daudzās vietnēs.">
+<!ENTITY https-everywhere.about.version "Versija">
+<!ENTITY https-everywhere.about.created_by "Autori">
+<!ENTITY https-everywhere.about.and ", un">
+<!ENTITY https-everywhere.about.librarians "Ruleset Librarians">
+<!ENTITY https-everywhere.about.add_new_rule "Pievienot jaunu kārtulu">
+<!ENTITY https-everywhere.about.thanks "Pateicoties">
+<!ENTITY https-everywhere.about.many_contributors "Daudzi jo daudzi līdzstrādnieki, tostarp">
+<!ENTITY https-everywhere.about.noscript "Bez tam daļa no HTTPS Evertwhere izmanto NoScript kodu. Paldies Džordžio Giorgio Maone un citiem par viņu izcilo darbu!">
+<!ENTITY https-everywhere.about.contribute  "ja Jums patīk HTTPS Everywhere, iespējams vēlaties">
+<!ENTITY https-everywhere.about.donate_tor "ziedot Tor'am">
+<!ENTITY https-everywhere.about.tor_lang_code "an">
+<!ENTITY https-everywhere.about.or "vai">
+<!ENTITY https-everywhere.about.donate_eff "ziedot EFF'am">
+
+<!ENTITY https-everywhere.menu.donate_eff_imperative "Ziedojiet EFF">
+<!ENTITY https-everywhere.menu.about "Par HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.observatory "SSL Observatory preferences">
+<!ENTITY https-everywhere.menu.globalEnable "Iespējot HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.globalDisable "Atspējot HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.blockUnencryptedRequests "Bloķēt visus nešifrētus pieprasījumus">
+<!ENTITY https-everywhere.menu.showCounter "Rādījumu skaitītājs">
+<!ENTITY https-everywhere.menu.viewAllRules "Skatīt visas kārtulas">
+
+<!ENTITY https-everywhere.prefs.title "HTTPS Everywhere preferences">
+<!ENTITY https-everywhere.prefs.enable_all "Iespējot visus">
+<!ENTITY https-everywhere.prefs.disable_all "Atspējot visus">
+<!ENTITY https-everywhere.prefs.reset_defaults "Atiestatīt uz noklusējuma vērtībām">
+<!ENTITY https-everywhere.prefs.search "Meklēt">
+<!ENTITY https-everywhere.prefs.site "Vietne">
+<!ENTITY https-everywhere.prefs.notes "Piezīmes">
+<!ENTITY https-everywhere.prefs.list_caption "Kurus HTTPS pāradresācijas noteikumus lietot?">
+<!ENTITY https-everywhere.prefs.enabled "Iespējots">
+<!ENTITY https-everywhere.prefs.ruleset_howto "Variet iemācīties kā rakstīt savus noteikumu komplektus (lai pievienotu citu tīmekļa vietņu atbalstu)">
+<!ENTITY https-everywhere.prefs.here_link "te">
+<!ENTITY https-everywhere.prefs.toggle "Pārslēgt">
+<!ENTITY https-everywhere.prefs.reset_default "Atiestatīt uz noklusējuma vērtībām">
+<!ENTITY https-everywhere.prefs.view_xml_source "Skatīt XML avotu">
+
+<!ENTITY https-everywhere.chrome.stable_rules "Stabilas kārtulas">
+<!ENTITY https-everywhere.chrome.stable_rules_description "Uzspiest šifrētus savienojumus ar šīm tīmekļa vietnēm.">
+<!ENTITY https-everywhere.chrome.experimental_rules "Eksperimentālas kārtulas">
+<!ENTITY https-everywhere.chrome.experimental_rules_description "Var izsaukt brīdinājumus vai darbības pārtraukumus. Pēc noklusējuma ir atspējots.">
+<!ENTITY https-everywhere.chrome.add_rule "Šai vietnei pievienot kārtulu">
+<!ENTITY https-everywhere.chrome.add_new_rule "Šai vietnei pievienot jaunu kārtulu">
+<!ENTITY https-everywhere.chrome.always_https_for_host "Šim resursdatoram vienmēr lietot https">
+<!ENTITY https-everywhere.chrome.host "Resursdators:">
+<!ENTITY https-everywhere.chrome.show_advanced "Rādīt lietpratīgās">
+<!ENTITY https-everywhere.chrome.hide_advanced "Slēpt lietpratīgās">
+<!ENTITY https-everywhere.chrome.rule_name "Kārtulas nosaukums">
+<!ENTITY https-everywhere.chrome.regex "Atbilstoša regulāra izteiksme jeb regex">
+<!ENTITY https-everywhere.chrome.redirect_to "Novirzīt uz">
+<!ENTITY https-everywhere.chrome.status_cancel_button "Atcelt">
+
+

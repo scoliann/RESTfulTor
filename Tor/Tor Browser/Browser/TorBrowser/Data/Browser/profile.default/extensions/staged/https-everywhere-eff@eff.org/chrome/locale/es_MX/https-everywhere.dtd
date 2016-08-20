@@ -1,0 +1,57 @@
+<!ENTITY https-everywhere.about.title "Sobre HTTPS Universal">
+<!ENTITY https-everywhere.about.ext_name "HTTPS Everywhere">
+<!ENTITY https-everywhere.about.ext_description "Cifra la Red! Automáticamente utiliza seguridades HTTPS en multiples sitios.">
+<!ENTITY https-everywhere.about.version "Versión">
+<!ENTITY https-everywhere.about.created_by "Creado por">
+<!ENTITY https-everywhere.about.and ", y">
+<!ENTITY https-everywhere.about.librarians "Bibliotecarios de conjuntos de reglas">
+<!ENTITY https-everywhere.about.add_new_rule "Añade Nueva Regla">
+<!ENTITY https-everywhere.about.thanks "Gracias a">
+<!ENTITY https-everywhere.about.many_contributors "Muchisimos contribuidores, incluyendo ">
+<!ENTITY https-everywhere.about.noscript "Ademas, las porciones de HTTPS Everywhere se basan en el codijo de NoScript escrito por Giorgio Maone y otoros. ¡Estamos muy agredcidos para su trabajo excellente!">
+<!ENTITY https-everywhere.about.contribute  "Si te gusta HTTPS Everywhere, podrias considerar">
+<!ENTITY https-everywhere.about.donate_tor "Donar a Tor">
+<!ENTITY https-everywhere.about.tor_lang_code "en">
+<!ENTITY https-everywhere.about.or "o">
+<!ENTITY https-everywhere.about.donate_eff "Donando a EFF">
+
+<!ENTITY https-everywhere.menu.donate_eff_imperative "Dona a EFF">
+<!ENTITY https-everywhere.menu.about "Sobre HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.observatory "Preferencias del Observatorio SSL">
+<!ENTITY https-everywhere.menu.globalEnable "Activar HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.globalDisable "Desactivar HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.blockUnencryptedRequests "Block all unencrypted requests">
+<!ENTITY https-everywhere.menu.showCounter "Enseña contador ">
+<!ENTITY https-everywhere.menu.viewAllRules "Ver todo las reglas">
+
+<!ENTITY https-everywhere.prefs.title "Preferencias de HTTPS Everywhere">
+<!ENTITY https-everywhere.prefs.enable_all "Habilitar Todos">
+<!ENTITY https-everywhere.prefs.disable_all "Desactivar Todos">
+<!ENTITY https-everywhere.prefs.reset_defaults "Restaurar a Valores Predeterminados">
+<!ENTITY https-everywhere.prefs.search "Busqueda">
+<!ENTITY https-everywhere.prefs.site "Sitio">
+<!ENTITY https-everywhere.prefs.notes "Notas">
+<!ENTITY https-everywhere.prefs.list_caption "Cuales reglas de redirection de HTTPS deberían ser aplicadas?">
+<!ENTITY https-everywhere.prefs.enabled "Habilitado">
+<!ENTITY https-everywhere.prefs.ruleset_howto "Tu pueudes aprender como a escribir tus propios conjuntos de reglas (para añadir apoyo para los otros sitios de web)">
+<!ENTITY https-everywhere.prefs.here_link "aqui">
+<!ENTITY https-everywhere.prefs.toggle "Alternar">
+<!ENTITY https-everywhere.prefs.reset_default "Restaurar a Estado Predeterminado">
+<!ENTITY https-everywhere.prefs.view_xml_source "Ver fuente XML">
+
+<!ENTITY https-everywhere.chrome.stable_rules "Reglas Estables">
+<!ENTITY https-everywhere.chrome.stable_rules_description "A fuerza utilizar conexiones encriptado para estas sitios de web">
+<!ENTITY https-everywhere.chrome.experimental_rules "Reglas Experimentales">
+<!ENTITY https-everywhere.chrome.experimental_rules_description "Puede causar advertencias o rotura. Desactivado de manera predeterminada">
+<!ENTITY https-everywhere.chrome.add_rule "Añadir una regla para este sitio">
+<!ENTITY https-everywhere.chrome.add_new_rule "Añadir una regla neuva para este sitio">
+<!ENTITY https-everywhere.chrome.always_https_for_host "Utilizar siempre https para este host">
+<!ENTITY https-everywhere.chrome.host "Host:">
+<!ENTITY https-everywhere.chrome.show_advanced "Enseña avanzado">
+<!ENTITY https-everywhere.chrome.hide_advanced "Esconde avanzado">
+<!ENTITY https-everywhere.chrome.rule_name "nombre de regla">
+<!ENTITY https-everywhere.chrome.regex "Regex coincidente">
+<!ENTITY https-everywhere.chrome.redirect_to "Redirigir a ">
+<!ENTITY https-everywhere.chrome.status_cancel_button "Cancelar">
+
+

@@ -1,0 +1,57 @@
+<!ENTITY https-everywhere.about.title "Thông tin về HTTPS Everywhere">
+<!ENTITY https-everywhere.about.ext_name "HTTPS Everywhere">
+<!ENTITY https-everywhere.about.ext_description "Mã hóa trang web! Tự động sử dụng bảo mật HTTPS ở nhiều trang web.">
+<!ENTITY https-everywhere.about.version "Phiên bản">
+<!ENTITY https-everywhere.about.created_by "Tạo ra bởi">
+<!ENTITY https-everywhere.about.and ", và">
+<!ENTITY https-everywhere.about.librarians "Thư Viện Các Quy Tắc">
+<!ENTITY https-everywhere.about.add_new_rule "Add New Rule">
+<!ENTITY https-everywhere.about.thanks "Nhờ có">
+<!ENTITY https-everywhere.about.many_contributors "Rất rất nhiều người đóng góp, bao gồm cả">
+<!ENTITY https-everywhere.about.noscript "Portions của HTTPS Everywhere được dựa trên mã từ NoScript, bởi Giorgio Maone và những người khác. Chúng tôi rất biết ơn vì những gì họ đã làm rất xuất sắc.">
+<!ENTITY https-everywhere.about.contribute  "Nếu như bạn thích HTTPS Everywhere, có thể bạn cũng quan tâm đến">
+<!ENTITY https-everywhere.about.donate_tor "Đóng góp cho Tor">
+<!ENTITY https-everywhere.about.tor_lang_code "en">
+<!ENTITY https-everywhere.about.or "hoặc">
+<!ENTITY https-everywhere.about.donate_eff "Đóng góp cho EFF">
+
+<!ENTITY https-everywhere.menu.donate_eff_imperative "Đóng góp cho EFF">
+<!ENTITY https-everywhere.menu.about "Thông tin về HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.observatory "Các Tùy Chọn Ưu Tiên cho SSL Observatory">
+<!ENTITY https-everywhere.menu.globalEnable "Bật HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.globalDisable "Tắt HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.blockUnencryptedRequests "Block all unencrypted requests">
+<!ENTITY https-everywhere.menu.showCounter "Hiển Thị Bộ Đếm">
+<!ENTITY https-everywhere.menu.viewAllRules "Xem Tất Cả Quy Tắc">
+
+<!ENTITY https-everywhere.prefs.title "Các Tùy Chọn Ưu Tiên Cho HTTPS Everywhere">
+<!ENTITY https-everywhere.prefs.enable_all "Bật tất cả">
+<!ENTITY https-everywhere.prefs.disable_all "Tắt tất cả">
+<!ENTITY https-everywhere.prefs.reset_defaults "Khôi phục về Mặc định">
+<!ENTITY https-everywhere.prefs.search "Tìm kiếm">
+<!ENTITY https-everywhere.prefs.site "Trang web">
+<!ENTITY https-everywhere.prefs.notes "Các Lưu Ý">
+<!ENTITY https-everywhere.prefs.list_caption "Những quy tắc chuyển hướng HTTPS nào nên được áp dụng?">
+<!ENTITY https-everywhere.prefs.enabled "Bật">
+<!ENTITY https-everywhere.prefs.ruleset_howto "Bạn có thể tìm hiểu về cách tự viết các quy tắc của riêng bạn (để hỗ trợ cho những trang web khác)">
+<!ENTITY https-everywhere.prefs.here_link "tại đây">
+<!ENTITY https-everywhere.prefs.toggle "Bật tắt">
+<!ENTITY https-everywhere.prefs.reset_default "Khôi phục về Mặc định">
+<!ENTITY https-everywhere.prefs.view_xml_source "Tìm nguồn XML">
+
+<!ENTITY https-everywhere.chrome.stable_rules "Các quy tắc ổn định">
+<!ENTITY https-everywhere.chrome.stable_rules_description "Ép buộc mã hóa các kết nối đến các trang web này:">
+<!ENTITY https-everywhere.chrome.experimental_rules "Các quy tắc trải nghiệm">
+<!ENTITY https-everywhere.chrome.experimental_rules_description "Có thể gây ra các cảnh báo hay hư hại. Mặc định là tắt.">
+<!ENTITY https-everywhere.chrome.add_rule "Thêm một quy tắc cho trang này">
+<!ENTITY https-everywhere.chrome.add_new_rule "Thêm một quy tắc mới cho trang này">
+<!ENTITY https-everywhere.chrome.always_https_for_host "Luôn sử dụng https cho host này">
+<!ENTITY https-everywhere.chrome.host "Host:">
+<!ENTITY https-everywhere.chrome.show_advanced "Hiển thị chi tiết">
+<!ENTITY https-everywhere.chrome.hide_advanced "Ẩn chi tiết">
+<!ENTITY https-everywhere.chrome.rule_name "Tên quy tắc">
+<!ENTITY https-everywhere.chrome.regex "Regex phù hợp">
+<!ENTITY https-everywhere.chrome.redirect_to "Chuyển hướng đến">
+<!ENTITY https-everywhere.chrome.status_cancel_button "Hủy bỏ">
+
+
