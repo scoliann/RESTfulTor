@@ -1,0 +1,92 @@
+<!-- Observatory popup window -->
+<!ENTITY ssl-observatory.popup.details "詳細資料同私隱資訊">
+<!ENTITY ssl-observatory.popup.later "稍後詢問我">
+<!ENTITY ssl-observatory.popup.no "否">
+
+<!ENTITY ssl-observatory.popup.text "「https優先」將你收到嘅憑證發送到觀測站，以偵測出對你瀏覽器嘅攻擊。啟用此功能嗎？">
+
+<!--<!ENTITY ssl-observatory.popup.text 
+"EFF's SSL Observatory can detect attacks against HTTPS websites by collecting
+and auditing the certificates being presented to your browser. Would you like
+to turn it on?">-->
+
+<!ENTITY ssl-observatory.popup.title 
+"要「https優先」使用SSL觀測站嗎？">
+
+<!ENTITY ssl-observatory.popup.yes "是">
+
+<!-- Observatory preferences dialog -->
+
+<!ENTITY ssl-observatory.prefs.adv_priv_opts1
+"啟用呢個選項係安全嘅，除非你使用高侵入性嘅公司網絡：">
+
+<!ENTITY ssl-observatory.prefs.adv_priv_opts2
+"啟用呢個選項係安全嘅，除非你使用含有隱密內部網路伺服器名稱嘅公司網絡：">
+
+<!ENTITY ssl-observatory.prefs.alt_roots 
+"提交並檢查由非正規根憑證所簽署嘅憑證">
+
+<!ENTITY ssl-observatory.prefs.alt_roots_tooltip 
+"啟用呢個選項係安全嘅(而且也建議啟用)，除非你使用侵入性嘅公司網絡，或者Kaspersky防毒軟件監控到你透過TLS代理瀏覽並使用私人嘅根憑證。喺呢類嘅網絡環境啟用此選項，可能會因為所產生嘅特有憑證，導致經由此代理伺服器瀏覽特定https://網域嘅憑證被公開。因此預設為唔啟用此選項。">
+
+<!ENTITY ssl-observatory.prefs.anonymous "使用Tor洋蔥路由匿名檢查憑證">
+<!ENTITY ssl-observatory.prefs.anonymous_unavailable 
+"使用Tor洋蔥路由匿名檢查憑證(需要Tor洋蔥路由)">
+<!ENTITY ssl-observatory.prefs.anonymous_tooltip 
+"此選項需要安裝同執行Tor洋蔥路由">
+
+<!ENTITY ssl-observatory.prefs.asn 
+"見到新嘅憑證時，告知觀測站你連線到邊一個ISP">
+
+<!ENTITY ssl-observatory.prefs.asn_tooltip
+"呢樣會抽取並回傳你網絡嘅自治系統號碼(Autonomous System Number)。咁會協助我哋定位對https嘅攻擊，並判定我哋所觀測到嚟自伊朗同敘利亞等地網絡嘅攻擊係咪較為常見。">
+
+<!ENTITY ssl-observatory.prefs.show_cert_warning
+"當觀測站偵測到未被你瀏覽器攔截到嘅被撤銷憑證時顯示警告">
+
+<!ENTITY ssl-observatory.prefs.show_cert_warning_tooltip
+"咁會依照憑證撤銷清單檢查提交嘅憑證。然而我哋無法保證我哋能夠標上每個被撤銷嘅憑證，但係你見到一個警告時就代表可能有嘢錯咗。">
+
+<!ENTITY ssl-observatory.prefs.done "完成">
+
+<!ENTITY ssl-observatory.prefs.explanation 
+"「https優先」可以使用EFF嘅SSL觀測站。咁做有兩個效果：(1)將https憑證嘅副本傳送到觀測站，協助我哋偵測「中間人」攻擊並改進網絡安全度；(2)當你遇到唔安全嘅連線或瀏覽器遭到攻擊時，我哋能夠對你提出警告。">
+
+<!--<!ENTITY ssl-observatory.prefs.explanation2
+"When you visit https://www.example.com, the Observatory will learn that
+somebody visited that site, but will not know who or what page they looked at.
+Mouseover the options for further details:">-->
+
+<!ENTITY ssl-observatory.prefs.explanation2
+
+"例如當你到訪https://www.something.com時，觀測站所收到嘅憑證會顯示有人到訪過www.something.com，但唔會指出到訪者身份或佢哋觀看嘅係邊啲特定頁面。將滑鼠游標移至選項上可得到詳細說明：">
+
+<!ENTITY ssl-observatory.prefs.hide "隱藏進階選項">
+
+<!ENTITY ssl-observatory.prefs.nonanon 
+"即使Tor洋蔥路由無法使用時仍檢查憑證">
+
+<!ENTITY ssl-observatory.prefs.nonanon_tooltip
+"我哋仍會試圖保持資料嘅匿名，但此選項嘅安全度較低">
+
+<!ENTITY ssl-observatory.prefs.priv_dns 
+"提交並檢查非公共域名系統(non-public DNS)名稱嘅憑證">
+
+<!ENTITY ssl-observatory.prefs.priv_dns_tooltip
+"除非你有選取此選項，觀測站唔會記錄未經DNS系統解析嘅憑證名稱。">
+
+<!ENTITY ssl-observatory.prefs.show "顯示進階選項">
+
+<!ENTITY ssl-observatory.prefs.title "SSL觀測站設定">
+
+<!ENTITY ssl-observatory.prefs.use "使用觀測站？">
+<!ENTITY ssl-observatory.warning.title "EFF嘅SSL觀測站提出警告">
+<!ENTITY ssl-observatory.warning.showcert "顯示憑證鏈結(certificate chain)">
+<!ENTITY ssl-observatory.warning.okay "我明白">
+<!ENTITY ssl-observatory.warning.text "EFF嘅SSL觀測站對此網站嘅https憑證提出警告：">
+<!ENTITY ssl-observatory.warning.defense "如果你登入此網站，一旦你有安全網絡連線時可能會建議更改你嘅密碼。(呢個警告可以喺「https優先」設定話匣嘅「SSL觀測站」分頁中被停用)">
+
+<!ENTITY ssl-observatory.prefs.self_signed
+"提交並檢查自我簽署嘅憑證">
+<!ENTITY ssl-observatory.prefs.self_signed_tooltip
+"建議啟用；加密問題喺自我簽署嘅嵌入式裝置極為常見。">

@@ -1,0 +1,57 @@
+<!ENTITY https-everywhere.about.title "Om HTTPS Everywhere">
+<!ENTITY https-everywhere.about.ext_name "HTTPS Everywhere">
+<!ENTITY https-everywhere.about.ext_description "Kryptera webben! Använd HTTPS automatiskt på många webbsidor.">
+<!ENTITY https-everywhere.about.version "Version">
+<!ENTITY https-everywhere.about.created_by "Skapat av">
+<!ENTITY https-everywhere.about.and ", och">
+<!ENTITY https-everywhere.about.librarians "Regelförfattare">
+<!ENTITY https-everywhere.about.add_new_rule "Lägg till ny regel">
+<!ENTITY https-everywhere.about.thanks "Tack till">
+<!ENTITY https-everywhere.about.many_contributors "Flera flera bidragsgivare, inklusive">
+<!ENTITY https-everywhere.about.noscript "Även, delar av HTTPS Everywhere är baserade på kod från NoScript, av Giorgio Maone och andra. Vi är tacksamma för deras utmärkta arbete!">
+<!ENTITY https-everywhere.about.contribute  "Om du gillar HTTPS Everywhere, kanske du kan tänka dig">
+<!ENTITY https-everywhere.about.donate_tor "Donera till Tor">
+<!ENTITY https-everywhere.about.tor_lang_code "en">
+<!ENTITY https-everywhere.about.or "eller">
+<!ENTITY https-everywhere.about.donate_eff "Donera till EFF">
+
+<!ENTITY https-everywhere.menu.donate_eff_imperative "Donera till EFF">
+<!ENTITY https-everywhere.menu.about "Om HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.observatory "Inställningar för SSL Observatoriet">
+<!ENTITY https-everywhere.menu.globalEnable "Aktivera HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.globalDisable "Inaktivera HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.blockUnencryptedRequests "Blockera alla okrypterade förfrågningar">
+<!ENTITY https-everywhere.menu.showCounter "Visa räknare">
+<!ENTITY https-everywhere.menu.viewAllRules "Visa alla regler">
+
+<!ENTITY https-everywhere.prefs.title "Inställningar för HTTPS Everywhere">
+<!ENTITY https-everywhere.prefs.enable_all "Aktivera alla">
+<!ENTITY https-everywhere.prefs.disable_all "Inaktivera alla">
+<!ENTITY https-everywhere.prefs.reset_defaults "Återställ till standardvärden">
+<!ENTITY https-everywhere.prefs.search "Sök">
+<!ENTITY https-everywhere.prefs.site "Webbplats">
+<!ENTITY https-everywhere.prefs.notes "Anmärkningar">
+<!ENTITY https-everywhere.prefs.list_caption "Vilka HTTPS-omdirigeringsregler ska gälla?">
+<!ENTITY https-everywhere.prefs.enabled "Aktiverad">
+<!ENTITY https-everywhere.prefs.ruleset_howto "Du kan lära dig hur du skriver dina egna regler (för att lägga till stöd för andra webbplatser)">
+<!ENTITY https-everywhere.prefs.here_link "här">
+<!ENTITY https-everywhere.prefs.toggle "Växla">
+<!ENTITY https-everywhere.prefs.reset_default "Återställ till standardvärden">
+<!ENTITY https-everywhere.prefs.view_xml_source "Visa XML källkod">
+
+<!ENTITY https-everywhere.chrome.stable_rules "Stabila regler">
+<!ENTITY https-everywhere.chrome.stable_rules_description "Tvinga krypterade anslutningar till dessa websidor:">
+<!ENTITY https-everywhere.chrome.experimental_rules "Experimentella regler">
+<!ENTITY https-everywhere.chrome.experimental_rules_description "Kan orsaka varningar eller avbrott. Inaktiverad som standard.">
+<!ENTITY https-everywhere.chrome.add_rule "Lägg till en reger för denna sida">
+<!ENTITY https-everywhere.chrome.add_new_rule "Lägg till en ny regel för denna sida">
+<!ENTITY https-everywhere.chrome.always_https_for_host "Använd alltid https för denna värd">
+<!ENTITY https-everywhere.chrome.host "Värd:">
+<!ENTITY https-everywhere.chrome.show_advanced "Visa avancerad">
+<!ENTITY https-everywhere.chrome.hide_advanced "Göm avancerad">
+<!ENTITY https-everywhere.chrome.rule_name "Regel namn">
+<!ENTITY https-everywhere.chrome.regex "Matchar regex">
+<!ENTITY https-everywhere.chrome.redirect_to "Omdirigera till">
+<!ENTITY https-everywhere.chrome.status_cancel_button "Avbryt">
+
+

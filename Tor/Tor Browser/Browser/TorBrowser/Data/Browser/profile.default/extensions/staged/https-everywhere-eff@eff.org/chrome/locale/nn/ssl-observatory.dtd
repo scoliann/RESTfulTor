@@ -1,0 +1,103 @@
+<!-- Observatory popup window -->
+<!ENTITY ssl-observatory.popup.details "Detaljar og personverninformasjon">
+<!ENTITY ssl-observatory.popup.later "Spør meg seinare">
+<!ENTITY ssl-observatory.popup.no "Nei">
+
+<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere kan uppdaga åtak
+på nettlesaren din ved å sende sertifikati du mottek åt Observatoriet.
+Slå på dette?">
+
+<!--<!ENTITY ssl-observatory.popup.text 
+"EFF's SSL Observatory can detect attacks against HTTPS websites by collecting
+and auditing the certificates being presented to your browser. Would you like
+to turn it on?">-->
+
+<!ENTITY ssl-observatory.popup.title 
+"Skal HTTPS Everywhere bruka SSL Observatory?">
+
+<!ENTITY ssl-observatory.popup.yes "Ja">
+
+<!-- Observatory preferences dialog -->
+
+<!ENTITY ssl-observatory.prefs.adv_priv_opts1
+"Det er trygt å slå på dette, med mindre du nyttar
+eit sers inngripande verksemdnettverk:">
+
+<!ENTITY ssl-observatory.prefs.adv_priv_opts2
+"Trygt, med mindre du nyttar eit verksemdnettverk med løynlege intranett-
+tenarnamn:">
+
+<!ENTITY ssl-observatory.prefs.alt_roots 
+"Send inn og sjekk attestar underskrivne av ikkjestandard rot-CA'ar">
+
+<!ENTITY ssl-observatory.prefs.alt_roots_tooltip 
+"Det er trygt (og ein god idé) å slå på dette valet, med mindre du nyttar eit inngripande verksemdnettverk eller Kaspersky motvirusprogramvare som yvervakar nettlesingi di med ein TLS-proxy og ein privat rotsertifikatautoritet. Um det er slege på på soleis eit nettverk, kan dette valet gjeve ut prov på kva https://-domene som vart vitja gjennum den proxyen, på grunn av dei sereigne sertifikati det ville laga. So me let det vera av som standard.">
+
+<!ENTITY ssl-observatory.prefs.anonymous "Sjekk sertifikat ved hjelp av Tor for anonymitet">
+<!ENTITY ssl-observatory.prefs.anonymous_unavailable 
+"Sjekk sertifikat ved hjelp av Tor for anonymitet (krev Tor)">
+<!ENTITY ssl-observatory.prefs.anonymous_tooltip 
+"Dette valet krev at Tor er installert og køyrar">
+
+<!ENTITY ssl-observatory.prefs.asn 
+"Når du ser eit nytt sertifikat, fortel Observatoriet kva for ISP du er kopla åt.">
+
+<!ENTITY ssl-observatory.prefs.asn_tooltip
+"Dette vil henta og senda det &quot;Autonome Systemtalet&quot; åt nettverket ditt. Dette vil hjelpe oss med å plassera åtak mot HTTPS, og med å avgjere um me hev åtgangingar frå nettverk på stadar soleis som Iran og Syria, kor åtak er jamførd vanlege.">
+
+<!ENTITY ssl-observatory.prefs.show_cert_warning
+"Vis ei åtvaring når Observatoriet uppdagar eit fråteke sertifikat ikkje fanga upp av nettlesaren din">
+
+<!ENTITY ssl-observatory.prefs.show_cert_warning_tooltip
+"Dette vil sjekke innsendde sertifikat mot kjende Sertifikatfråtakingslistor. Diverre kan me ikkje stilla trygd for at me vil merka kvart fråteke sertifikat, men um du ser ei åtvaring er det ein god sjanse for at noko er gale.">
+
+<!ENTITY ssl-observatory.prefs.done "Ferdig">
+
+<!ENTITY ssl-observatory.prefs.explanation 
+"HTTPS Everywhere kan nytta EFF sitt SSL-Observatorium. Dette gjerer tvo ting: (1)
+sender kopiar av HTTPS-sertifikat åt Observatoriet, for å hjelpe oss med å
+uppdaga 'mann i midti'-åtak og forbetra tryggleika på nettet; og (2) lèt oss åtvara
+deg um utrygge tilkoplingar eller åtak på nettlesaren din.">
+
+<!--<!ENTITY ssl-observatory.prefs.explanation2
+"When you visit https://www.example.com, the Observatory will learn that
+somebody visited that site, but will not know who or what page they looked at.
+Mouseover the options for further details:">-->
+
+<!ENTITY ssl-observatory.prefs.explanation2
+
+"Til dømes, når du vitjar https://www.noko.com, vil sertifikatet motteke av
+Observatoriet stadfesta at nokon vitja www.noko.com, men ikkje kven som
+vitja nettstaden, eller kva serskild sida dei såg på. Hald musa yver vala for
+fleire einskilddrag:">
+
+<!ENTITY ssl-observatory.prefs.hide "Gøym avanserte val">
+
+<!ENTITY ssl-observatory.prefs.nonanon 
+"Sjekk sertifikat sjølv um Tor ikkje er åtgjengeleg">
+
+<!ENTITY ssl-observatory.prefs.nonanon_tooltip
+"Me vil framleis freista å halde upplysingane anonyme, men dette valet er mindre
+trygt">
+
+<!ENTITY ssl-observatory.prefs.priv_dns 
+"Send inn og sjekk sertifikat for ikkje-offentlege DNS-namn">
+
+<!ENTITY ssl-observatory.prefs.priv_dns_tooltip
+"Med mindre dette valet er kryssa av, vil Observatoriet ikkje loggføra sertifikat for namn det ikkje kan løysa gjennum DNS-systemet.">
+
+<!ENTITY ssl-observatory.prefs.show "Vis avanserte innstiillingar">
+
+<!ENTITY ssl-observatory.prefs.title "SSL Observatory Innstillingar">
+
+<!ENTITY ssl-observatory.prefs.use "Nytt Observatoriet?">
+<!ENTITY ssl-observatory.warning.title "ÅTVARING frå EFF sitt SSL-Observatorium">
+<!ENTITY ssl-observatory.warning.showcert "Vis sertifikatkedja">
+<!ENTITY ssl-observatory.warning.okay "Eg forstår">
+<!ENTITY ssl-observatory.warning.text "EFF sitt SSL-Observatorium hev kunngjord ei åtvaring um HTTPS-sertifikatet/sertifikati for denne nettstaden:">
+<!ENTITY ssl-observatory.warning.defense "Um du er logga inn på denne nettstaden, kan det vera tilrådeleg å gjera um på passordet so fort du hev ei trygg kopling. (Desse åtvaringane kan slegast av i &quot;SSL-Observatorium&quot;-fani i HTTPS Everywhere-valdialogen.)">
+
+<!ENTITY ssl-observatory.prefs.self_signed
+"Send inn og sjekk sjølvunderskrivne sertifikat">
+<!ENTITY ssl-observatory.prefs.self_signed_tooltip
+"Dette er tilrådd; kryptografiske vanskar er serskild vanleg bland sjølvunderskrivne innbakte einheitar">
