@@ -1,5 +1,5 @@
 # Summary 
-restfulTor.py is a python module that allows the user to change IP addresses and make RESTful calls to be made through the Tor network.
+restfulTor.py is a Python module that allows the user to change IP addresses and make RESTful calls through the Tor network.
 
 ## Inspiration
 While doing a final project for CS229 Machine Learning at Stanford, my team was dealing with a large dataset.  For each line in the dataset, we needed to call the sentiment analysis API at "http://text-processing.com/api/sentiment/".  Due to the number of API calls being made, my computer kept on being rate limited and blocked.  Therefore, I conceived the idea of sending all traffic to the API through Tor.  This would allow us to ping the API until one IP is blocked, then simply switch IP addresses.  The system worked perfectly, and we were able to send as much traffic as needed to the API!
